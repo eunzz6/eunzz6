@@ -17,12 +17,8 @@
 ### Contacts
 
 ![Gmail Badge](https://img.shields.io/badge/📧%20djdj5267@naver.com-03C75A?style=flat-square&logo=&logoColor=white&link=mailto:djdj5267@naver.com)
-![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white&link=https://eunzz6.tistory.com/)
-
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://eunzz6.tistory.com/)
-
-
-![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://unexpected-scilla-bbe.notion.site/PORTFOLIO-8979e493808840409982202d175a6479?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](link=https://unexpected-scilla-bbe.notion.site/PORTFOLIO-8979e493808840409982202d175a6479?pvs=4)
 
 
 

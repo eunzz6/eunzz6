@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=150&section=header&text=Welcome%20To%20EUNZZ6's%20GitHub%20🌳&fontSize=35&animation=fadeIn&fontColor=42473E&fontAlign=67" />
-  
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=150&section=header&text=Welcome%20To%20EUNZZ6's%20GitHub%20🌳&fontSize=35&animation=fadeIn&fontColor=42473E&fontAlign=67&fontAlignY=40" />
 
 
 

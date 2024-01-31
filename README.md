@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C3E5AE&height=150&section=header&text=Welcome%20To%20EUNZZ6's%20GitHub%20🌳&fontSize=35&animation=fadeIn&fontColor=42473E&fontAlign=67" />
+  
 
-<!--
-**eunzz6/eunzz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tech Skills
+
+![Java](https://img.shields.io/badge/JAVA-437291?style=flat-square&logo=OpenJDK&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+
+
+### Contacts
+
+![Gmail Badge](https://img.shields.io/badge/📧%20djdj5267@naver.com-03C75A?style=flat-square&logo=&logoColor=white&link=mailto:djdj5267@naver.com)
+![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white&link=https://eunzz6.tistory.com/)
+![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://unexpected-scilla-bbe.notion.site/PORTFOLIO-8979e493808840409982202d175a6479?pvs=4)
+
+
+
+### BOJ Solved.ac 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ejej12)](https://solved.ac/ejej12)
+
+
+
+</div>
+
+

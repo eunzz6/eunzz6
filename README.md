@@ -16,7 +16,7 @@
 
 [![Email Badge](https://img.shields.io/badge/📧%20djdj5267@naver.com-03C75A?style=flat-square&logo=&logoColor=white)](mailto:djdj5267@naver.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://eunzz6.tistory.com/)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://unexpected-scilla-bbe.notion.site/PORTFOLIO-8979e493808840409982202d175a6479?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://unexpected-scilla-bbe.notion.site/Resume-4cace1059dac4f59ad24a392a162e034?pvs=4)
 
 
 
